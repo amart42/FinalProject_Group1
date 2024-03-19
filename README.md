@@ -2,10 +2,10 @@
 In 1-2 sentences, explain the game as if you were pitching it to potential players, publishers, funders and developers. This should be very intriguing. It typically includes the title, genre, platform, and brief idea of what the player does or has to overcome. Seriously, two sentences max.
 
 # Genre
-In games, the genre is what the player does most. Examples of game genres are, shooter, platformer, action/adventure, survival/horror, rhythm, casual, puzzle, god, battle royale. Please use a game genre and not a setting. If you don’t know the difference, please ask.
+This game will be a First Person Rogue-Like
 
 # Platforms
-List or describe the platforms the game will be made for such as PC, mobile, console, handheld. Basically, just put Mac or PC because that is what this class is about.
+This game is designed to be played on PC
 
 # Target Audience
 Provide information on the audience the game is targeted to. Add details and information on the intended audience such as their habits, behaviors, likes, and dislikes. Are you targeting your game to a specific age group or perhaps people that enjoy certain genres? Is your intended audience from specific communities? Also, don’t say the class or professor, think about your audience. Example: A game for 8–12-year-old girls who are ballet or modern dancers. The likely have limited exposure to PC games. This game speaks to them as sophisticated members of the dance community while taking an informative perspective on dance in a game. 

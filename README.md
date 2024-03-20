@@ -32,9 +32,11 @@ NPC - Random people that dont attack the player, but the player will have to kil
 The player enters a room, shoots bow/swings sword/blocks with shield, loots dead bodies for arrows/bread/wet stones, the player goes to the next room
 
 ## Player Experience
+
 *Provide a general overview of how the player experiences the game. Walk them through the screens they will see, what the level looks like and what their character can do. Give them a brief idea of objectives & hazards they will face.  This should be in a second-person point of view using the word “you” to tell a story to the audience (players). Example: West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here.*
 
 ## Gameplay Guidelines
+
 *This is a set of guidelines that the game must adhere to throughout the development process. These include rules for what is allowed and not allowed in the game. For instance, if you are creating a game for children, you will want to define guidelines for the level of violence presented in the game, what language can be used, and so on.*
 
 ## Game Objectives & Rewards
@@ -45,6 +47,7 @@ The player will have WASD movement, Jumping, Attacking by swinging a sword, Atta
 
 
 ## Level Design
+
 *Discuss the levels. How many levels will the game have, what will be included in each level. Include overall look and feel, hazards the level presents, difficulty, objectives, etc. Include sketches of your levels.*
 
 ## Control Scheme

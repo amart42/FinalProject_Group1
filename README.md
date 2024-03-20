@@ -55,7 +55,7 @@ The player will have WASD movement, Jumping, Attacking by swinging a sword, Atta
 **The throne room is the final area in the castle. It is a large, open space with a throne in the back. It will feel regal and important - the culmination of the journey before. Here, the player will fight and defeat the king, allowing them to take over the kingdom.**
 
 ## Control Scheme
-This game will use a **standard keyboard** for the controlls
+This game will use a **standard keyboard** for the controls
 
 ## Button/ Touch Input	Action it Performs
 W/A/S/D - Movement keys

@@ -24,8 +24,8 @@ _
 # Gameplay
 
 ## Overview of Gameplay
-_Discuss the actions the player will perform as they make their way through the game. Core mechanic and a core loop are part of gameplay, lets examine all three. A core mechanic could be: pressing a button to animate your gun to a shooting position, pressing another button to shoot then pressing first button to holster the gun. A core loop is: player shoots an enemy, takes cover, throws a grenade, waits and shoots again forming the loop. Gameplay over all is the player shoots, takes cover, loots dead bodies, finds ammo, finds audio tapes, plays audio tapes to understand to complete the next part of their quest.
-_
+The player enters a room, shoots bow/swings sword/blocks with shield, loots dead bodies for arrows/health/damage ups, the player goes to the next room
+
 ## Player Experience
 _Provide a general overview of how the player experiences the game. Walk them through the screens they will see, what the level looks like and what their character can do. Give them a brief idea of objectives & hazards they will face.  This should be in a second-person point of view using the word “you” to tell a story to the audience (players). Example: West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here.
 _

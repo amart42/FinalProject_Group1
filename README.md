@@ -18,7 +18,7 @@ Player Character - Mid-Evil knight in armor, they are the main characater tasked
 
 Sword Knight - Engages in sword combat with the player
 
-Shield Kight - Uses a shield to get close to a player and knock them black 
+Shield Knight - Uses a shield to get close to a player and knock them black 
 
 Flying Monster - Shoots projectiles at player, forces them to use bow combat, They have a swoop attack so the player doesnt run out of arrows
 

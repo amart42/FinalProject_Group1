@@ -13,9 +13,16 @@ This game is targeted for teen players of fast-paced action-orianted games - his
 *Provide information on the audience the game is targeted to. Add details and information on the intended audience such as their habits, behaviors, likes, and dislikes. Are you targeting your game to a specific age group or perhaps people that enjoy certain genres? Is your intended audience from specific communities? Also, don’t say the class or professor, think about your audience. Example: A game for 8–12-year-old girls who are ballet or modern dancers. The likely have limited exposure to PC games. This game speaks to them as sophisticated members of the dance community while taking an informative perspective on dance in a game.*
 
 # Storyline & Characters
-The player is an assassin tasked with breaking into a castle, taking down its inhabitents, and becoming a king-slayer. Along the way, the will engage in combat with their trusty sword, shield, and bow. They will pillage loot from the keep, using it to aid them in their task. However, no matter how many arrows, wet stones, and increased health you find the king awaits at his thrown, prepared to cull any so called 'revolution'
+The player is an assassin tasked with breaking into a castle, taking down its inhabitents, and becoming a king-slayer. Along the way, the will engage in combat with their trusty sword, shield, and bow. They will pillage loot from the keep, using it to aid them in their task. However, no matter how many arrows, wet stones, and bread you find the king awaits at his thrown, prepared to cull any so called 'revolution'
 
 # Character Name and reference images 
+Player Character - Mid-Evil knight in armor, they are the main characater tasked with assassinating the king and hte drivign force behind the plot. They have sword, shield, and bow
+
+Sword Knight - Engages in sword combat with the player
+Shield Kight - Uses a shield to get close to a player and knock them black 
+Flying Monster - Shoots projectiles at player, forces them to use bow combat
+King - The final boss in game, the goal of the main character is the kill them
+
 *Describe the character. It is a playable character or NPC. How does this character fit into the story, etc. 
 Describe the character’s abilities, personality and so forth. 
 Present any other notes about the character.*
@@ -23,7 +30,7 @@ Present any other notes about the character.*
 # Gameplay
 
 ## Overview of Gameplay
-The player enters a room, shoots bow/swings sword/blocks with shield, loots dead bodies for arrows/health/damage ups, the player goes to the next room
+The player enters a room, shoots bow/swings sword/blocks with shield, loots dead bodies for arrows/bread/wet stones, the player goes to the next room
 
 ## Player Experience
 *Provide a general overview of how the player experiences the game. Walk them through the screens they will see, what the level looks like and what their character can do. Give them a brief idea of objectives & hazards they will face.  This should be in a second-person point of view using the word “you” to tell a story to the audience (players). Example: West of House. You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here.*
@@ -32,7 +39,7 @@ The player enters a room, shoots bow/swings sword/blocks with shield, loots dead
 *This is a set of guidelines that the game must adhere to throughout the development process. These include rules for what is allowed and not allowed in the game. For instance, if you are creating a game for children, you will want to define guidelines for the level of violence presented in the game, what language can be used, and so on.*
 
 ## Game Objectives & Rewards
-Rewards of killing enemies/beating levels/rooms are arrows, health up, healing, and damage up. Enemes will pose a challege to the player, forcing them to engage in combat. The difficulty will increase as the player goes deeper into the castle, eventually resulting in a boss battle with the King
+Rewards of killing enemies/beating levels/rooms are arrows, bread, healing, and damage up. Enemes will pose a challege to the player, forcing them to engage in combat. The difficulty will increase as the player goes deeper into the castle, eventually resulting in a boss battle with the King
 
 ## Gameplay Mechanics
 The player will have WASD movement, Jumping, Attacking by swinging a sword, Attacking by shooting a bow, Shielding with a shield, and Knock back with a Shield Bash. They will be able to pick up health ups (which heal them), Wet stones (which increase damage), Healing Potions (which heal them), and Arrows (which allow them to use their bow more)

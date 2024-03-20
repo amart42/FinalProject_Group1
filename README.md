@@ -19,8 +19,11 @@ The player is an assassin tasked with breaking into a castle, taking down its in
 Player Character - Mid-Evil knight in armor, they are the main characater tasked with assassinating the king and hte drivign force behind the plot. They have sword, shield, and bow
 
 Sword Knight - Engages in sword combat with the player
+
 Shield Kight - Uses a shield to get close to a player and knock them black 
-Flying Monster - Shoots projectiles at player, forces them to use bow combat
+
+Flying Monster - Shoots projectiles at player, forces them to use bow combat, They have a swoop attack so the player doesnt run out of arrows
+
 King - The final boss in game, the goal of the main character is the kill them
 
 *Describe the character. It is a playable character or NPC. How does this character fit into the story, etc. 

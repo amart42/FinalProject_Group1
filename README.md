@@ -10,8 +10,6 @@ This game is designed to be played on PC
 # Target Audience
 This game is targeted for teen players of fast-paced action-orianted games - his game challenges the player, forcing quick decisions with fatal consequences.
 
-*Provide information on the audience the game is targeted to. Add details and information on the intended audience such as their habits, behaviors, likes, and dislikes. Are you targeting your game to a specific age group or perhaps people that enjoy certain genres? Is your intended audience from specific communities? Also, don’t say the class or professor, think about your audience. Example: A game for 8–12-year-old girls who are ballet or modern dancers. The likely have limited exposure to PC games. This game speaks to them as sophisticated members of the dance community while taking an informative perspective on dance in a game.*
-
 # Storyline & Characters
 The player is an assassin tasked with breaking into a castle, taking down its inhabitents, and becoming a king-slayer. Along the way, the will engage in combat with their trusty sword, shield, and bow. They will pillage loot from the keep, using it to aid them in their task. However, no matter how many arrows, wet stones, and bread you find the king awaits at his thrown, prepared to cull any so called 'revolution'
 
@@ -26,9 +24,7 @@ Flying Monster - Shoots projectiles at player, forces them to use bow combat, Th
 
 King - The final boss in game, the goal of the main character is the kill them
 
-*Describe the character. It is a playable character or NPC. How does this character fit into the story, etc. 
-Describe the character’s abilities, personality and so forth. 
-Present any other notes about the character.*
+NPC - Random people that dont attack the player, but the player will have to kill - paints the player as not entierly the 'good guy'
 
 # Gameplay
 

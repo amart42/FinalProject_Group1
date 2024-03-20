@@ -1,3 +1,6 @@
+![image](https://github.com/amart42/FinalProject_Group1/assets/66807613/2e4f26b8-1a95-4cc5-a9ef-c16137622b84)
+
+
 # High Concept Statement
 Revolution is a First Person Rogue-Like with fast-paced combat which requires making quick decisions with fatal consequences. The player is tasked to assassinate a king, leaving no witnesses, and earning the title King-Slayer
 

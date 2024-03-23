@@ -1,5 +1,5 @@
 # High Concept Statement
-Revolution is a First Person Rogue-Like with fast-paced combat which requires making quick decisions with fatal consequences. The player is tasked to assassinate a king, leaving no witnesses, and earning the title King-Slayer
+King Slayer is a First Person Rogue-Like with fast-paced combat which requires making quick decisions with fatal consequences. The player is tasked to assassinate a king, leaving no witnesses, and earning the title King-Slayer
 
 # Genre
 This game will be a First Person Rogue-Like
@@ -26,7 +26,10 @@ King - The final boss in game, the goal of the main character is the kill them. 
 
 NPC - Random people that don't attack the player, but the player will have to kill them to progress. This paints the player as not entierly the 'good guy'
 
-**Add Images**
+![image](https://github.com/amart42/FinalProject_Group1/assets/66807613/e2d9eab1-68a4-4576-9d8d-823c55f11936)
+![image](https://github.com/amart42/FinalProject_Group1/assets/66807613/e1cec0eb-7b04-41ba-9057-315bb4cd316b)
+![image](https://github.com/amart42/FinalProject_Group1/assets/66807613/9cb7c1d9-dd85-46bd-bdfe-4e05d5a9e271)
+
 
 # Gameplay
 
@@ -34,10 +37,10 @@ NPC - Random people that don't attack the player, but the player will have to ki
 The player enters a room, **and is presented with enemies in their path**. They shoot their bow, swing their sword, and block attacks while dealing knockback with their shield. The player loots the dead bodies for arrows refils, bread to restore health, **potions to increase their maximum health**, and whetstones to increase their damage output. After defeating all the enemies, the player goes to the next room.
 
 ## Player Experience
-**When you start a run of Revolution, you spawn in the overworld overlooking the castle. Here you can explore the village, fight weak versions of enemies, and find some hidden items before entering the castle. Once you are ready, you enter the castle to begin your conquest. You traverse a random assortment of rooms, each with unique layouts, enemy placement, and item spawns. In a room, you will defeat all the enemies in your path before the door to the next room opens. Use your sword, shield, and bow to defeat the enemies in your way! After traveling through 14 floors (CHANGE?), you reach the 15th floor and are confronted by the king. Defeat him in a final decisive battle to claim the kingdom as your own!**
+**When you start a run of King Slayer, you spawn in the overworld overlooking the castle. Here you can explore the village, fight weak versions of enemies, and find some hidden items before entering the castle. Once you are ready, you enter the castle to begin your conquest. You traverse a random assortment of rooms, each with unique layouts, enemy placement, and item spawns. In a room, you will defeat all the enemies in your path before the door to the next room opens. Use your sword, shield, and bow to defeat the enemies in your way! After traveling through 14 floors (CHANGE?), you reach the 15th floor and are confronted by the king. Defeat him in a final decisive battle to claim the kingdom as your own!**
 
 ## Gameplay Guidelines
-**Revolution is a game targeted to teens, so there will be mild violence and/or gore. This will not be excessive, but it will be present. Furthermore, Revolution is to stick to a medieval theme. There will be no futuristic elements, and anything included that is not accurate to historical medieval settings will be magical in nature. There are fantasy-esque characters and attacks, but nothing based in futuristic technology.**
+**King Slayer is a game targeted to teens, so there will be mild violence and/or gore. This will not be excessive, but it will be present. Furthermore, King Slayer is to stick to a medieval theme. There will be no futuristic elements, and anything included that is not accurate to historical medieval settings will be magical in nature. There are fantasy-esque characters and attacks, but nothing based in futuristic technology.**
 
 ## Game Objectives & Rewards
 Rewards of killing enemies/beating levels/rooms are arrows, bread, healing potions, and whetstones. Enemes will pose a challege to the player, forcing them to engage in combat. The difficulty will increase as the player goes deeper into the castle, eventually resulting in a boss battle with the King. **Some examples of difficulty increases are enemies getting more health or more damage as the player progresses through the castle.**
@@ -72,6 +75,8 @@ Left Click - Alt Attack **(Blocking with shield equiped)**
 **This game aims to make the player feel questionable about their actions. As they progress, they will realize they may be conquering the kingdom for malicious reasons, and that their character may not be the beacon of hope they initially thought they were.**
 
 **Concerning the UI, we will aim to create a design that does not take up too much of the screen. On the title screen, buttons will be centered and include options to start the game, change settings, or quit the game. The title screen will include a slight camera animation and the game's title above the buttons. As for the pause screen, this will appear on the side of the screen, allowing the player to still see their enviornment while paused. It will include buttons to resume the game, change the settings, or return to the title screen.**
+![image](https://github.com/amart42/FinalProject_Group1/assets/66807613/f3d0a959-36f5-4c9c-a54f-3f8fab395928)
+![image](https://github.com/amart42/FinalProject_Group1/assets/66807613/6fa32cbf-6c25-45f6-8abd-18a87cd27f8b)
 
 **Add Images (UI mockup?)**
 	

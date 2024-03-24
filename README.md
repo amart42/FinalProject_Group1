@@ -1,3 +1,5 @@
+# King Slayer - Game Design Document
+
 # High Concept Statement
 King Slayer is a First Person Rogue-Like with fast-paced combat which requires making quick decisions with fatal consequences. The player is tasked to assassinate a king, leaving no witnesses, and earning the title King-Slayer.
 
